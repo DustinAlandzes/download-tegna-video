@@ -16,6 +16,11 @@ python download.py
 ./merge.sh
 ./ts2mp4.sh
 ```
+or
+```
+TODO:
+python download.py <url> | merge.sh | ts2mp4.sh 
+```
 
 # TODO
 ```
